@@ -12,5 +12,5 @@ Bootstrap is injected into this page via the CDN link.</P>
 <hr />
 
 <p align="center">
-    <img src="./assets/page.png">
+    <img src="./assets/page.jpg">
 </p>
